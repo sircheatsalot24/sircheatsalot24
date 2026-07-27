@@ -1,16 +1,11 @@
-<h1>Hello, I'm @sircheatsalot24</h1>
+# Pravir
 
-- 👋 Hi, I’m @sircheatsalot24
-- 👀 I’m interested in video games, coding, the drums
-- 🌱 I’m currently learning python, web development, javascript!
-- 💞️ I’m looking to collaborate on AI stuff, web development, python!
-- 📫 How to reach me: sachan.pravir24@svvsd.org, +1 (720) 512-6959
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love the color blue.
+High schooler creating AI agents. LangGraph, evaluation, self-hosted ML, APIs.
 
-Looking forward to collaborating!
+**[prediction-market-debate](https://github.com/sircheatsalot24/prediction-market-debate)** – LLM agents take the role of bull and bear, arguing opposing sides on a live Polymarket prediction, with an arbitrator agent determining the winner. This is built with LangGraph using `gpt-4o-mini` and Polymarket's API. It has its own evaluation system which grades the agents on consistency, use of evidence, and logical reasoning.
 
-<!---
-sircheatsalot24/sircheatsalot24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Co-founder at **[Juvo](https://github.com/sircheatsalot24/Juvo)**, a teen jobs platform.
+
+Currently, I’m mostly focusing on evaluation designs such as Brier scoring, temporal leakage prevention, and **_evaluate_** when to evaluate components versus the whole system.
+
+Python, LangGraph, Docker, Supabase, Next.js.
