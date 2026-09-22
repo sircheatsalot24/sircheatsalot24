@@ -6,6 +6,6 @@ High schooler creating AI agents. LangGraph, evaluation, self-hosted ML, APIs.
 
 Co-founder at **[Juvo](https://github.com/sircheatsalot24/Juvo)**, a teen jobs platform.
 
-Currently, I’m mostly focusing on evaluation designs such as Brier scoring, temporal leakage prevention, and **_evaluate_** when to evaluate components versus the whole system.
+Currently, I’m mostly focusing on creating frontends in Next.js for my python applications.
 
 Python, LangGraph, Docker, Supabase, Next.js.
